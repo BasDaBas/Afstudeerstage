@@ -1,0 +1,12 @@
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Infrastructure\bin\Debug\netcoreapp2.0\Rovecom.TicketConnector.Infrastructure.deps.json
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Infrastructure\bin\Debug\netcoreapp2.0\Rovecom.TicketConnector.Infrastructure.dll
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Infrastructure\bin\Debug\netcoreapp2.0\Rovecom.TicketConnector.Infrastructure.pdb
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Infrastructure\bin\Debug\netcoreapp2.0\Rovecom.TicketConnector.Domain.dll
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Infrastructure\bin\Debug\netcoreapp2.0\Rovecom.TicketConnector.Domain.pdb
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Infrastructure\obj\Debug\netcoreapp2.0\Rovecom.TicketConnector.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Infrastructure\obj\Debug\netcoreapp2.0\Rovecom.TicketConnector.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Infrastructure\obj\Debug\netcoreapp2.0\Rovecom.TicketConnector.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Infrastructure\obj\Debug\netcoreapp2.0\Rovecom.TicketConnector.Infrastructure.AssemblyInfo.cs
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Infrastructure\obj\Debug\netcoreapp2.0\Rovecom.TicketConnector.Infrastructure.csproj.CopyComplete
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Infrastructure\obj\Debug\netcoreapp2.0\Rovecom.TicketConnector.Infrastructure.dll
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Infrastructure\obj\Debug\netcoreapp2.0\Rovecom.TicketConnector.Infrastructure.pdb

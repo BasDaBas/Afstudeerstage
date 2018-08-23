@@ -1,0 +1,9 @@
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Domain\bin\Debug\netcoreapp2.0\Rovecom.TicketConnector.Domain.deps.json
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Domain\bin\Debug\netcoreapp2.0\Rovecom.TicketConnector.Domain.dll
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Domain\bin\Debug\netcoreapp2.0\Rovecom.TicketConnector.Domain.pdb
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Domain\obj\Debug\netcoreapp2.0\Rovecom.TicketConnector.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Domain\obj\Debug\netcoreapp2.0\Rovecom.TicketConnector.Domain.AssemblyInfoInputs.cache
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Domain\obj\Debug\netcoreapp2.0\Rovecom.TicketConnector.Domain.AssemblyInfo.cs
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Domain\obj\Debug\netcoreapp2.0\Rovecom.TicketConnector.Domain.dll
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Domain\obj\Debug\netcoreapp2.0\Rovecom.TicketConnector.Domain.pdb
+C:\Users\sjbenjamins\source\repos\Rovecom.SISConnector\src\Rovecom.TicketConnector.Domain\obj\Debug\netcoreapp2.0\Rovecom.TicketConnector.Domain.csprojResolveAssemblyReference.cache
